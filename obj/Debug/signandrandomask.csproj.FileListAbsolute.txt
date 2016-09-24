@@ -1,0 +1,9 @@
+D:\c#\homework3\signandrandomask\bin\Debug\signandrandomask.exe.config
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.csprojResolveAssemblyReference.cache
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.Form1.resources
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.Properties.Resources.resources
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.csproj.GenerateResource.Cache
+D:\c#\homework3\signandrandomask\bin\Debug\signandrandomask.exe
+D:\c#\homework3\signandrandomask\bin\Debug\signandrandomask.pdb
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.exe
+D:\c#\homework3\signandrandomask\obj\Debug\signandrandomask.pdb
